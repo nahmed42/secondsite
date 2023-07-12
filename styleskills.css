@@ -1,0 +1,28 @@
+body{
+background-color: #d3d3d3;
+  color: black;
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+.navbar-header{
+	overflow: hidden;
+	background-color: black;
+}
+
+.navbar .nav-element {
+	float: left;
+	color: pink;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 18px;
+	
+}
+.navbar .nav-element:hover {
+	color: black;
+	background-color: pink;
+}
+.container{
+	background-color: pink;
+}
